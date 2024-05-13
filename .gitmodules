@@ -1,0 +1,3 @@
+[submodule "pucminas"]
+	path = pucminas
+	url = https://github.com/rfedosi/pucminas.git
